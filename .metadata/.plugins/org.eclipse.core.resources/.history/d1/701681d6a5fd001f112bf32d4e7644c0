@@ -1,0 +1,4 @@
+spring.application.name=toy01
+
+server:
+  port: 80
